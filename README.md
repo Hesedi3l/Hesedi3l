@@ -1,16 +1,15 @@
-### Hi there 👋
+### Salut Toi  👋
 
-<!--
-**Hesedi3l/Hesedi3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Hesedi3l** Étudiant autodidacte passionné par l'univers du digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Développement Web & Gestion de projet 
+
+* 🌐 Portfolio  : [Hesediel-web](https://hesediel.fr/) 
+* 💬 Groupe   : [Iootek](https://github.com/Iootek) 
+* 📧 E-mail     : contact@hesediel.fr
+
+### 🔭 Environnement de travail
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
