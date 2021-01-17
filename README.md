@@ -13,10 +13,3 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-### Projets en cours 
-
-* Awansy 
-* Elupsia-Doc
-* Sodiwin
