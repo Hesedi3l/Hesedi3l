@@ -5,7 +5,6 @@
 
 ### Développement Web & Gestion de projet 
 
-* 🌐 Portfolio  : [Hesediel-web](https://hesediel.fr/) 
 * 💬 Groupe   : [Iootek](https://github.com/Iootek) 
 * 📧 E-mail     : contact@hesediel.fr
 
