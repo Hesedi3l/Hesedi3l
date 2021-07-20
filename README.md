@@ -3,9 +3,9 @@
 
 **Hesedi3l** Étudiant autodidacte passionné par l'univers du digital.
 
-### Développement Web & Gestion de projet 
+### Développement Web & Design
 
-* 💬 Groupe   : [Iootek](https://github.com/Iootek) 
+* 💬 Codepen   : [Hesedi3l](https://codepen.io/hesedi3l) 
 * 📧 E-mail     : contact@hesediel.fr
 
 ### 🔭 Environnement de travail
