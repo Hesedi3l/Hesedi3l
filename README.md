@@ -1,11 +1,13 @@
 ### Salut Toi  👋
 
 
-**Hesedi3l** Étudiant autodidacte passionné par l'univers du digital.
+**Hesedi3l** Auto-Entrepreneur, Étudiant autodidacte passionné par l'univers du digital.
 
 ### Développement Web & Design
 
 * 💬 Codepen   : [Hesedi3l](https://codepen.io/hesedi3l) 
+* 🌐 WebSite : [hesediel.fr](https://hesediel.fr/)
+* 🌐 WebSite Ressources : [Creative Ressources](https://creative-ressources.fr/)
 * 📧 E-mail     : contact@hesediel.fr
 
 ### 🔭 Environnement de travail
