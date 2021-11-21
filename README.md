@@ -1,7 +1,9 @@
 ### Salut Toi  👋
 
 ![profile views](https://komarev.com/ghpvc/?username=Hesedi3l&label=Profile%20views&color=ee6c4d&style=flat)
+
 <hr>
+
 **Hesedi3l** Auto-Entrepreneur, Étudiant autodidacte passionné par l'univers du digital.
 
 ### Développement Web & Design
